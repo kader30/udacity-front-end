@@ -1,0 +1,190 @@
+body {
+    height: 80%;
+    margin: 70px;
+   border-radius: 10px;
+    background: lightgrey;
+}
+.information { 
+    background: white;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    width : 50%;
+    float: left;
+}
+#log {
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-top : 45px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#email {
+    
+    font-size: 25px;
+    border : none;
+    background: lightgray;
+    margin  : 20px;
+    margin-left: 100px;
+    padding: 10px;
+    width : 500px;
+    
+}
+#pass {
+   
+    font-size: 25px;
+    border : none;
+    background: lightgray;
+    margin  : 10px;
+    margin-left: 100px;
+    padding: 10px;
+    width : 500px;
+    
+}
+#rem {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color : grey;
+}
+#remember {
+    
+    margin-top: 25px;
+    margin-left : 100px;
+    margin-bottom: 25px;
+}
+#forgot {
+    color:grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right : 110px;
+    padding-top: 8px;
+   
+    float : right;
+}
+#login {
+    font-weight: bold;
+    margin-left: 100px;
+    margin-right: 20px;
+    color : white;
+    font-size: 25px;
+    width: 520px;
+    background: rgba(71, 4, 73, 0.842);
+    padding: 10px;
+   border: none;
+
+    
+}
+
+#connect{
+    color : gray;
+    font-size: 20px;
+    margin-right: 20px;
+    padding-top: 25px;
+    text-align: center;
+}
+.image{
+    margin-left: 250px;
+}
+img{
+    margin-left: 20px;
+    height: 30px;
+    width: 30px;
+}
+
+#annee {
+    color: gray;
+    text-align: center;
+}
+.Register {
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-clip: padding-box;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background: rgba(71, 4, 73, 0.842);
+    text-align: center;
+    width: 50%;
+   font-size: 40px;
+   font-weight: bolder;
+   color:  lightgray;
+    float: right;
+}
+#logo {
+    padding-top: 150px;
+    font-size: 50px;
+}
+#us {
+    font-size: 25px;
+}
+#click {
+    font-size: 20px;
+    border-radius: 40px;
+    font-weight: bold;
+    border : 1px white solid;
+    color : white;
+    background: rgba(71, 4, 73, 0.842);
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top:13px;
+    padding-bottom: 13px;
+    margin: 10px;
+    margin-bottom:65px;
+}
+
+span {
+    border : 1px white solid;
+    border-radius: 360px;
+    margin : 10px;
+    font-size: 20px;
+    padding : 5px;
+    
+}
+.circle{
+    margin-top: 100px;
+    margin-left: 330px;
+    border-radius: 50%;
+    width:50px;
+    height:50px;
+    border: 12px solid white;
+}
+.horizontal-plus{
+    margin-top: 50px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-left:60px;
+    position:relative;
+    width: 50px;
+    height: 5px;
+    left:25%;
+    top:43.75;
+    background: white
+
+}
+.vertical-plus{
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-left:73px;
+    position:relative;
+    width: 5px;
+    height: 50px;
+    left:43.75%;
+    top:-78%;
+    background: white;
+}
+
+
+.rectangle{
+    
+    position: relative;
+    border: 10px solid white;
+    width : 90px;
+    height: 35px;
+    left: -27px;
+    top:-50px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom: none;
+   
+}
+.dessin {
+    margin-bottom :95px;
+}
