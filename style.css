@@ -1,8 +1,12 @@
+
+
 body {
+    display: flex;
     height: 80%;
     margin: 70px;
    border-radius: 10px;
     background: lightgrey;
+    min-width: 750px;
 }
 .information { 
     background: white;
@@ -25,10 +29,10 @@ body {
     font-size: 25px;
     border : none;
     background: lightgray;
-    margin  : 20px;
-    margin-left: 100px;
+    margin  : 15px;
+    margin-left: 14%;
     padding: 10px;
-    width : 500px;
+    width :68%;
     
 }
 #pass {
@@ -36,10 +40,10 @@ body {
     font-size: 25px;
     border : none;
     background: lightgray;
-    margin  : 10px;
-    margin-left: 100px;
+    margin  : 16px;
+    margin-left: 14%;
     padding: 10px;
-    width : 500px;
+    width : 68%;
     
 }
 #rem {
@@ -49,24 +53,24 @@ body {
 #remember {
     
     margin-top: 25px;
-    margin-left : 100px;
+    margin-left : 14%;
     margin-bottom: 25px;
 }
 #forgot {
     color:grey;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-right : 110px;
+    margin-right : 15%;
     padding-top: 8px;
    
     float : right;
 }
 #login {
     font-weight: bold;
-    margin-left: 100px;
-    margin-right: 20px;
+    margin-left: 14%;
+    margin-right: 2%;
     color : white;
     font-size: 25px;
-    width: 520px;
+    width: 71%;
     background: rgba(71, 4, 73, 0.842);
     padding: 10px;
    border: none;
@@ -77,12 +81,12 @@ body {
 #connect{
     color : gray;
     font-size: 20px;
-    margin-right: 20px;
+    margin-right: 2%;
     padding-top: 25px;
     text-align: center;
 }
 .image{
-    margin-left: 250px;
+    margin-left: 28%;
 }
 img{
     margin-left: 20px;
@@ -95,7 +99,6 @@ img{
     text-align: center;
 }
 .Register {
-    position: relative;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-clip: padding-box;
     border-top-right-radius: 30px;
@@ -139,8 +142,9 @@ span {
     
 }
 .circle{
+    position : relative;
     margin-top: 100px;
-    margin-left: 330px;
+    margin-left: 42%;
     border-radius: 50%;
     width:50px;
     height:50px;
@@ -173,7 +177,7 @@ span {
 
 
 .rectangle{
-    
+   
     position: relative;
     border: 10px solid white;
     width : 90px;
@@ -186,5 +190,6 @@ span {
    
 }
 .dessin {
+ 
     margin-bottom :95px;
 }
